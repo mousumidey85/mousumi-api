@@ -22,7 +22,7 @@
     "mysql": "^2.18.1",
     "passport": "^0.7.0",
     "passport-azure-ad": "^4.3.5",
-    "tedious": "^16.6.0"
+    "tedious": "^16.7.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2",

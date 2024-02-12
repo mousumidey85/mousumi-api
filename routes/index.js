@@ -1,8 +1,8 @@
 const express = require("express");
 
-var indexRouter = require("../routes/index");
-var users = require("../routes/users");
-var enquiries = require("../routes/enquiries");
+var indexRouter = require("./index");
+var users = require("./users");
+var enquiries = require("./enquiries");
 
 module.exports = function(app) {
   app.use(express.json());
